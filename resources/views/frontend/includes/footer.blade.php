@@ -44,12 +44,12 @@
                     <div class="widget border-0">
                         <h5 class="m-b30 text-white">Часто задаваемые вопросы</h5>
                         <ul class="list-2 list-line">
-                            <li><a href="{{ route('for_teachers') }}">Для инструкторов</a></li>
-                            <li><a href="{{ route('for_schools') }}">Для школ</a></li>
-                            <li><a href="{{ route('for_guests') }}">для гостей</a></li>
-                            <li><a href="{{ route('for_jobs') }}">Для соискателей</a></li>
-                            <li><a href="{{ route('contact') }}">Связаться с нами</a></li>
-                            <li><a href="{{ route('about') }}">насчет нас</a></li>
+                            <li><a href="#">Для инструкторов</a></li>
+                            <li><a href="#">Для школ</a></li>
+                            <li><a href="#">для гостей</a></li>
+                            <li><a href="#">Для соискателей</a></li>
+                            <li><a href="#">Связаться с нами</a></li>
+                            <li><a href="#">насчет нас</a></li>
                         </ul>
                     </div>
                 </div>
@@ -57,9 +57,9 @@
                     <div class="widget border-0">
                         <h5 class="m-b30 text-white">O платформе</h5>
                         <ul class="list-2 w10 list-line">
-                            <li><a href="{{ route('privacy') }}">Конфиденциальность и безопасность</a></li>
-                            <li><a href="{{ route('terms') }}">Условия использования</a></li>
-                            <li><a href="{{ route('support') }}">Служба поддержки</a></li>
+                            <li><a href="#">Конфиденциальность и безопасность</a></li>
+                            <li><a href="#">Условия использования</a></li>
+                            <li><a href="#">Служба поддержки</a></li>
                           <!--  <li><a href="{{ route('how') }}">как это устроено</a></li> -->
                         </ul>
                     </div>
