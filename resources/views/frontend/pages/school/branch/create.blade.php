@@ -24,7 +24,7 @@
 
             <div class="form-group">
                 <label>адрес *</label>
-                <input type="address"  id="address" class="form-control @error('address') is-invalid @enderror" name="address">
+                <input type="address"  class="form-control @error('address') is-invalid @enderror" name="address">
                 @error('address')
                     <span class="invalid-feedback" role="alert">
                         <strong>{{ $message }}</strong>
