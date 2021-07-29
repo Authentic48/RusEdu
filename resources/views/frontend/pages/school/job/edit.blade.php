@@ -128,7 +128,7 @@
             </div>
             <div class="form-group">
                 <label>адрес *</label>
-                <input type="text" name="address" id="search_form" class="form-control @error('address') is-invalid @enderror"
+                <input type="text" name="address"  class="form-control @error('address') is-invalid @enderror"
                     placeholder="адрес" value="{{ $job->address }}">
                 @error('address')
                     <span class="invalid-feedback" role="alert">
