@@ -1,6 +1,6 @@
 ### RusEdu
 
-Schools&Teachers is a platform that connect schools, teachers and students or Parents. Teachers can create their own profile, Schools can create Job posts and only teachers can apply those job. Parents, students or schools can browse teachers according to their needs and give them  a job offer. Teachers can track their job application and get updates in real time.
+RusEdu is a platform that connect schools, teachers and students or Parents. Teachers can create their own profile, Schools can create Job posts and only teachers can apply those job. Parents, students or schools can browse teachers according to their needs and give them  a job offer. Teachers can track their job application and get updates in real time.
 
 The frontend part of this app was an open source template that I customized for my own need. 
 
